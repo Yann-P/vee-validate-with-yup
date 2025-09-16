@@ -1,6 +1,6 @@
 # vee-validate experiments
 
-Using field arrays, yup for validation, plain HTML (no <Field> component).
+Using field arrays, yup for validation, plain HTML (no \<Field\> component).
 
 - src/Simple.vue: basic example using yup
 - src/Interdependent.vue: same error on multiple interdependent fields (fields must be coherent with each other)
